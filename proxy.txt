@@ -1,2 +1,11 @@
-Use Good Proxies
-Add your proxies here
+
+209.127.191.180:1080:yzqlptun-dest:gey3dm7xk7to
+45.130.255.198:1080:yzqlptun-dest:gey3dm7xk7to
+45.130.255.243:1080:yzqlptun-dest:gey3dm7xk7to
+185.164.56.20:1080:yzqlptun-dest:gey3dm7xk7to
+45.130.255.147:1080:yzqlptun-dest:gey3dm7xk7to
+45.95.96.132:1080:yzqlptun-dest:gey3dm7xk7to
+45.95.96.237:1080:yzqlptun-dest:gey3dm7xk7to
+45.95.96.187:1080:yzqlptun-dest:gey3dm7xk7to
+45.94.47.66:1080:yzqlptun-dest:gey3dm7xk7to
+193.8.56.119:1080:yzqlptun-dest:gey3dm7xk7to
