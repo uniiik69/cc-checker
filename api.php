@@ -13,7 +13,7 @@ function multiexplode($delimiters, $string)
   $two = explode($delimiters[0], $one);
   return $two;
 }
- $sk1 = $_GET['sk'];
+ $sk1 = $_GET['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'];
 
 ///YOU CAN ALSO ADD SK USING INDEX 
 $lista = $_GET['lista'];
