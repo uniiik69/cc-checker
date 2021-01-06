@@ -30,7 +30,7 @@ function GetStr($string, $start, $end)
 
 function rebootproxys()
   {
-    $poxySocks = file("proxy.txt");
+    $poxySocks = file("proxy5.txt");
     $myproxy = rand(0, sizeof($poxySocks) - 1);
     $poxySocks = $poxySocks[$myproxy];
     return $poxySocks;
@@ -74,9 +74,9 @@ if (isset($skArray)) {
 
 
   $ch = curl_init();
-curl_setopt($ch, CURLOPT_PROXY, "p.webshare.io:80");
-curl_setopt($ch, CURLOPT_PROXYUSERPWD, "frgzlnsf-rotate:92xd1mn2yaet");
-  curl_setopt($ch, CURLOPT_URL, 'https://api.stripe.com/v1/sources');
+curl_setopt($ch, CURLOPT_PROXY, "zproxy.lum-superproxy.io:22225");
+curl_setopt($ch, CURLOPT_PROXYUSERPWD,"ozu3a0or9xgw");
+  curl_setopt($ch, CURLOPT_URL, 'lum-customer-hl_ac2d240c-zone-static-ip-181.214.185.43');
   curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
   curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
